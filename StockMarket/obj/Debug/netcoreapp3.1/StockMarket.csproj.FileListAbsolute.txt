@@ -1,0 +1,13 @@
+C:\JPMorgan\StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\JPMorgan\StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\JPMorgan\StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\JPMorgan\StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\JPMorgan\StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\JPMorgan\StockMarket\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
+C:\JPMorgan\StockMarket\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csprojAssemblyReference.cache

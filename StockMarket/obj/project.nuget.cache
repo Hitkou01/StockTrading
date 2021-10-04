@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NEM8HG0ETSHsIiLsBQyk/f4pzpiBTfP3IB59GJsN64w31ymeDsXru37/F38jGGJVB9BYiZqwLyO8vjB4bNAAsQ==",
+  "success": true,
+  "projectFilePath": "C:\\JPMorgan\\StockMarket\\StockMarket\\StockMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
